@@ -36,7 +36,7 @@ This repository contains the **Payment** microservice for the **Roboshop Applica
 
 ## Tech Stack
 
-- **Language:** (Specify your language, e.g., Python, Node.js)
+- **Language:** Python
 - **Framework:** (e.g., Express, Flask, Spring Boot)
 - **Containerization:** Docker
 - **CI/CD:** Jenkins, [Jenkins Shared Library](https://github.com/BharathKumarReddy2103/jenkins-shared-library)
