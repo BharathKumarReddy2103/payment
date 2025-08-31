@@ -1,4 +1,4 @@
-# Payment Microservice — Roboshop Application
+# Roboshop Application - Payment Microservice CICD
 
 This repository contains the **Payment** microservice for the **Roboshop Application**, a microservices-based e-commerce platform for selling robots. The Payment service is responsible for handling payment processing and integration within the Roboshop ecosystem.
 
